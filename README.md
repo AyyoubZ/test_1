@@ -1,2 +1,2 @@
 # test_1
-For Testin a Git And GitHub command.
+For Testin a __Git__ And __GitHub__ command.
